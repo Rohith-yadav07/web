@@ -1,0 +1,56 @@
+.main{
+   display: flex;
+}
+.main .logo{
+   width: 30px;
+   height: 40px;
+}
+.sid{
+   padding-left:230px;
+}
+.sid a{
+   text-decoration: none;
+   font-size: smaller;
+   padding: 5px;
+}
+.sid a:hover{
+   color: rgb(235, 11, 11);
+}
+.sid2 {
+   padding-left: 230px;
+   
+}
+img{
+   width: 100%;
+   height:-100px;
+}
+ .cen1{
+   margin-top: -900px;
+   padding-left: 240px;
+   color: #c9ecf5;
+   background-color: rgb(207, 9, 174);
+   
+}
+.cen1 p{
+   color: rgb(240, 93, 184);
+   padding-right: 150px;
+}
+
+
+.mid2 .button{
+   display: flex;
+   
+}
+.mid2{
+   display: flex;
+   margin-right: 30px;
+}
+.bot{
+   background-color: #e9f7fa;
+   margin-bottom: 200px;
+}
+.bot a{
+   color: black;
+   margin-bottom: 200px;
+   padding-bottom: 300px;
+}
